@@ -1,5 +1,6 @@
 # Focus-Blocker
 A website blocker browser extension for Microsoft Edge.
+# 100% vibe-coded!!!
 
 # Installation
 1. Download *focus-blocker.zip* and unzip the file
