@@ -1,5 +1,5 @@
 # Focus-Blocker
-A website blocker brownser extension for Microsoft Edge.
+A website blocker browser extension for Microsoft Edge.
 
 # Installation
 1. Download *focus-blocker.zip* and unzip the file
